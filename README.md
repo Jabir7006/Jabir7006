@@ -1,4 +1,4 @@
-# Hi there, I'm Jabir Ahmadd 👋
+# Hi there, I'm Jabir Ahmad 👋
 
 ## 🚀 MERN Stack Developer | JavaScript Enthusiast | DevOps Learner
 
