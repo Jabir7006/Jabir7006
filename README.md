@@ -18,15 +18,15 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise i
 - **Tools:** Git, GitHub, VS Code, Postman, Cloudinary
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabir7006&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabir7006&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
 - 🔗 [Portfolio](https://jabir-portfolio.netlify.app/)
 - 📧 Email: jabirahmad7005@gmail.com
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/jabir7005)
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🎥 Facebook: [Your YouTube Channel](https://www.facebook.com/md.jabirahmad.1612/)
+- 📘 Facebook: [Your YouTube Channel](https://www.facebook.com/md.jabirahmad.1612/)
 
 Let's build something amazing together! 🚀
 
