@@ -25,7 +25,6 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise i
 - 🔗 [Portfolio](https://jabir-portfolio.netlify.app/)
 - 📧 Email: jabirahmad7005@gmail.com
 - 🐦 Twitter: (https://twitter.com/jabir7005
-- 💼 LinkedIn: (https://linkedin.com/in/yourlinkedin)
 - 📘 Facebook: https://www.facebook.com/md.jabirahmad.1612/
 
 Let's build something amazing together! 🚀
